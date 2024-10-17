@@ -1,0 +1,282 @@
+/*==Flaticon icon font: Flaticon==*/
+
+@font-face {
+	font-family: Flaticon;
+	src: url(../fonts/Flaticon.eot);
+	src: url(../fonts/Flaticon.eot?#iefix) format("embedded-opentype"),
+	url(../fonts/Flaticon.woff) format("woff"), 
+	url(../fonts/Flaticon.ttf) format("truetype"), 
+	url(../fonts/Flaticon.svg#Flaticon) format("svg");
+	font-weight: 400;
+	font-style: normal
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+	font-family: Flaticon;
+	src: url(../fonts/Flaticon.svg#Flaticon) format("svg")
+}
+}
+[class*=" flaticon-"]:after, [class*=" flaticon-"]:before, [class^=flaticon-]:after, [class^=flaticon-]:before {
+	font-family: Flaticon;
+	font-size: 38px;
+	font-style: normal
+}
+.flaticon-road-with-broken-line:before {
+	content: "\f100"
+}
+.flaticon-sea-dyke:before {
+	content: "\f101"
+}
+.flaticon-plumber-working:before {
+	content: "\f102"
+}
+.flaticon-golden-gate-bridge:before {
+	content: "\f103"
+}
+.flaticon-trees:before {
+	content: "\f104"
+}
+.flaticon-roller-1:before {
+	content: "\f105"
+}
+.flaticon-work-tools:before {
+	content: "\f106"
+}
+.flaticon-construction-16:before {
+	content: "\f107"
+}
+.flaticon-construction-15:before {
+	content: "\f108"
+}
+.flaticon-construction-14:before {
+	content: "\f109"
+}
+.flaticon-construction-13:before {
+	content: "\f10a"
+}
+.flaticon-construction-12:before {
+	content: "\f10b"
+}
+.flaticon-construction-11:before {
+	content: "\f10c"
+}
+.flaticon-construction-10:before {
+	content: "\f10d"
+}
+.flaticon-buildings:before {
+	content: "\f10e"
+}
+.flaticon-construction-9:before {
+	content: "\f10f"
+}
+.flaticon-construction-8:before {
+	content: "\f110"
+}
+.flaticon-construction-7:before {
+	content: "\f111"
+}
+.flaticon-construction-6:before {
+	content: "\f112"
+}
+.flaticon-construction-5:before {
+	content: "\f113"
+}
+.flaticon-technology:before {
+	content: "\f114"
+}
+.flaticon-people-1:before {
+	content: "\f115"
+}
+.flaticon-caution:before {
+	content: "\f116"
+}
+.flaticon-nature:before {
+	content: "\f117"
+}
+.flaticon-transport-1:before {
+	content: "\f118"
+}
+.flaticon-transport:before {
+	content: "\f119"
+}
+.flaticon-construction-4:before {
+	content: "\f11a"
+}
+.flaticon-beach:before {
+	content: "\f11b"
+}
+.flaticon-wall:before {
+	content: "\f11c"
+}
+.flaticon-landscape:before {
+	content: "\f11d"
+}
+.flaticon-tool-1:before {
+	content: "\f11e"
+}
+.flaticon-construction-3:before {
+	content: "\f11f"
+}
+.flaticon-tool:before {
+	content: "\f120"
+}
+.flaticon-gloves:before {
+	content: "\f121"
+}
+.flaticon-paint:before {
+	content: "\f122"
+}
+.flaticon-door:before {
+	content: "\f123"
+}
+.flaticon-wrench:before {
+	content: "\f124"
+}
+.flaticon-drawing-1:before {
+	content: "\f125"
+}
+.flaticon-roller:before {
+	content: "\f126"
+}
+.flaticon-construction-1:before {
+	content: "\f127"
+}
+.flaticon-construction-2:before {
+	content: "\f128"
+}
+.flaticon-art:before {
+	content: "\f129"
+}
+.flaticon-drawing:before {
+	content: "\f12a"
+}
+.flaticon-tools:before {
+	content: "\f12b"
+}
+.flaticon-construction:before {
+	content: "\f12c"
+}
+.flaticon-people:before {
+	content: "\f12d"
+}
+.flaticon-email:before {
+	content: "\f12e"
+}
+.flaticon-fax:before {
+	content: "\f12f"
+}
+.flaticon-smartphone:before {
+	content: "\f130"
+}
+.flaticon-placeholder:before {
+	content: "\f131"
+}
+
+
+/*=================================
+			ICONMOON CSS
+==================================*/
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?rrsgby');
+  src:  url('../fonts/icomoon.eot?rrsgby#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?rrsgby') format('truetype'),
+    url('../fonts/icomoon.woff?rrsgby') format('woff'),
+    url('../fonts/icomoon.svg?rrsgby#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="iconmoon-"], [class*=" iconmoon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconmoon-hours:before {
+  content: "\e900";
+}
+.iconmoon-hours-1:before {
+  content: "\e901";
+}
+.iconmoon-buildings:before {
+  content: "\e902";
+}
+.iconmoon-clock:before {
+  content: "\e903";
+}
+.iconmoon-clock-1:before {
+  content: "\e904";
+}
+.iconmoon-email:before {
+  content: "\e905";
+}
+.iconmoon-envelope:before {
+  content: "\e906";
+}
+.iconmoon-envelope-1:before {
+  content: "\e907";
+}
+.iconmoon-fax:before {
+  content: "\e908";
+}
+.iconmoon-house:before {
+  content: "\e909";
+}
+.iconmoon-placeholder:before {
+  content: "\e90a";
+}
+.iconmoon-smartphone:before {
+  content: "\e90b";
+}
+.iconmoon-smartphone-1:before {
+  content: "\e90c";
+}
+.iconmoon-time:before {
+  content: "\e90d";
+}
+.iconmoon-time-1:before {
+  content: "\e90e";
+}
+.iconmoon-time-2:before {
+  content: "\e90f";
+}
+.iconmoon-travel:before {
+  content: "\e910";
+}
+
+
+
+.icon-xld i,
+.icon-xld [class*="iconmoon-"]::before{
+ font-size:100px;
+}
+.icon-xl i,
+.icon-xl [class*="iconmoon-"]::before{
+ font-size:80px;
+}
+.icon-lg i,
+.icon-lg [class*="iconmoon-"]::before{
+ font-size:60px;
+}
+.icon-md i,
+.icon-md [class*="iconmoon-"]::before{
+ font-size:45px;
+}
+.icon-sm i,
+.icon-sm [class*="iconmoon-"]::before{
+ font-size:30px;
+}
+.icon-xs i,
+.icon-xs [class*="iconmoon-"]::before{
+ font-size:20px;
+}

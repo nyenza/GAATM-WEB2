@@ -1,0 +1,299 @@
+
+
+/*===================== 
+
+	Premery bg color 
+
+=====================*/
+
+::selection {
+	background: #FF9800;
+}
+
+::-moz-selection {
+	background: #FF9800;
+}
+
+::-webkit-selection {
+	background: #FF9800;
+}
+
+
+/* Premery bg Hex color*/
+
+.noTrespassingBarLineG,
+.cssload-cupcakeCircle,
+.site-bg-primary,
+.site-button,
+ol.list-num-count>li::before,
+.wt-separator-two[class*="style-"]::after,
+.wt-separator-two[class*="style-"]::before,
+.masonry-filter.outline-style.customize>li.active a,
+.masonry-filter.outline-style.customize>li:hover a,
+
+.masonry-filter.button-style>li a:hover,
+.masonry-filter.button-style>li a:active,
+.masonry-filter.button-style>li a:focus,
+.date-style-3 .post-date i,
+.date-style-3.date-skew .post-date i,
+.date-style-3.date-skew .post-date i::after,
+
+/*.testimonial-1 .quote-left::before, */
+
+
+/*.testimonial-grid-1 .quote-left::before,*/
+
+.testimonial-4 .testimonial-detail,
+.testimonial-grid-4 .testimonial-detail,
+.testimonial-4 .testimonial-detail::after,
+.testimonial-grid-4 .testimonial-detail::before,
+.wt-team-four .wt-team-skew-block .social-icons-outer::after,
+.acc-site-bg-primary a,
+.pagination>li>a:hover,
+.pagination>li>span:hover,
+.pagination>li>a:focus,
+.pagination>li>span:focus,
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus,
+.custom-pagination.pagination>li>a:focus,
+.custom-pagination.pagination>li>a:hover,
+.custom-pagination.pagination>li>span:focus,
+.custom-pagination.pagination>li>span:hover,
+.wt-nav-pills li:hover a,
+.custom-pagination.pagination>.active>a,
+.custom-pagination.pagination>.active>span,
+.custom-pagination.pagination>.active>a:hover,
+.custom-pagination.pagination>.active>span:hover,
+.custom-pagination.pagination>.active>a:focus,
+.custom-pagination.pagination>.active>span:focus,
+.call-to-action-skew .call-to-action-left::after,
+.constrot-strip,
+.widget-title::after,
+.owl-carousel .owl-dots .owl-dot.active span,
+.owl-carousel .owl-dots .owl-dot:hover span,
+.social-icons.social-square.social-primary a,
+.social-icons.social-radius.social-primary a,
+.social-icons.social-square.social-darkest a:hover,
+.social-icons.social-radius.social-darkest a:hover,
+.wt-tabs.border-top .nav-tabs>li.active>a::after,
+.faq-block .faq-que::after,
+.faq-block .faq-ans::after,
+.animate_line:hover::after,
+.animate_line:hover::before,
+.about-com-pic::after,
+.date-style-2 .post-date,
+.custom-page.pager li>a:focus,
+.custom-page.pager li>a:hover,
+.pricingtable-price,
+.pricing-table-style-2 .pricingtable-title,
+.widget_calendar table tbody td#today,
+.widget_categories li span.badge,
+.widget_archive ul li span.badge,
+.widget_calendar thead,
+.widget_getintuch i,
+
+.masonry-filter.button-style.has-bg > li.active a,
+.masonry-filter.button-style.has-bg > li a:hover,
+/*.masonry-filter.button-style.has-bg > li a:active,
+.masonry-filter.button-style.has-bg > li a:focus,*/
+.testimonial-5 .testimonial-pic-block.radius-bx .testimonial-pic:after,
+.testimonial-grid-5 .testimonial-pic-block.radius-bx .testimonial-pic:after,
+.overlay-icon a:hover,
+.searchform input[type="submit"] {
+	background-color: #FF9800;
+}
+
+
+/* Premery hex buttons bg color*/
+
+.site-button {
+	background-color: #FF9800;
+}
+
+.site-button:hover,
+.site-button:focus,
+.site-button:active {
+	background-color: #FF9800;
+}
+
+
+/* other hex buttons bg color*/
+
+.searchform input[type="submit"] {
+	background-color: #FF9800;
+}
+
+.searchform input[type="submit"]:hover,
+.searchform input[type="submit"]:focus,
+.searchform input[type="submit"]:active {
+	background-color: #FF9800;
+}
+
+
+/* Premery Rgba color*/
+
+.wt-info-has.site-bg-primary {
+	background-color: rgba(255, 152, 0, 0.9);
+}
+
+
+/*===================== 
+
+	Premery text color 
+
+=====================*/
+
+
+/* Premery text Hex color*/
+
+a,
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover,
+.site-text-primary,
+ul.primary li::before,
+button.scroltop,
+.wt-breadcrumb li a,
+.header-nav .nav>li:hover>a,
+.header-nav .nav>li .sub-menu li a:hover,
+.header-nav .nav>li .sub-menu li:hover>a,
+.header-nav .nav>li .mega-menu>li ul a:hover,
+.header-nav .nav>li.active>a,
+.header-nav .nav>li.current-menu-item>a,
+.header-style-3 .is-fixed .header-nav .nav>li:hover>a,
+.header-style-3 .is-fixed .header-nav .nav>li.active>a,
+.header-style-3 .is-fixed .header-nav .nav>li.current-menu-item>a,
+.header-style-5 .is-fixed .header-nav .nav>li:hover>a,
+.header-style-5 .is-fixed .header-nav .nav>li.active>a,
+.header-style-5 .is-fixed .header-nav .nav>li.current-menu-item>a,
+.nav-dark.header-nav .nav>li .mega-menu>li ul a:hover,
+.date-style-3 .post-date strong,
+.status-value span,
+.rating-bx,
+.testimonial-1 .testimonial-position,
+.testimonial-grid-1 .testimonial-position,
+.testimonial-2 .testimonial-text .fa-quote-left,
+.testimonial-grid-2 .testimonial-text .fa-quote-left,
+.testimonial-2 .testimonial-position,
+.testimonial-grid-2 .testimonial-position,
+.testimonial-3 .testimonial-position,
+.testimonial-grid-3 .testimonial-position,
+.testimonial-3 .quote-left::before,
+.testimonial-grid-3 .quote-left::before,
+.testimonial-4 .testimonial-detail .fa-quote-left,
+.testimonial-grid-4 .testimonial-detail .fa-quote-left,
+ol.comment-list li.comment .reply a,
+.masonry-filter>li.active a,
+.masonry-filter>li a:hover,
+.masonry-filter>li a:active,
+.masonry-filter>li a:focus,
+.masonry-filter.link-style.white>li.active a,
+.masonry-filter.link-style.white>li a:hover,
+.masonry-filter.link-style.white>li a:active,
+.masonry-filter.link-style.white>li a:focus,
+.masonry-filter.outline-style>li.active a,
+.masonry-filter.outline-style>li a:hover,
+.masonry-filter.outline-style>li a:active,
+.masonry-filter.outline-style>li a:focus,
+.widget_categories ul li a:hover,
+.widget_archive ul li a:hover,
+.widget_meta ul li a:hover,
+.widget_pages ul li a:hover,
+.widget_recent_comments ul li a:hover,
+.widget_nav_menu li a:hover,
+.widget_recent_entries ul li a:hover,
+.widget_services ul li a:hover,
+.footer-dark .footer-top a:active,
+.footer-dark .footer-top a:focus,
+.footer-dark .footer-top a:hover,
+.social-icons.social-light.has-bg li a:hover,
+.social-icons.social-dark.has-bg li a:hover,
+
+.masonry-filter.link-style.has-bg > li.active a,
+.masonry-filter.link-style.has-bg > li:hover a,
+/*.masonry-filter.link-style.has-bg > li:active a,
+.masonry-filter.link-style.has-bg > li:focus a,*/
+
+.masonry-filter.outline-style.has-bg > li.active a,
+.masonry-filter.outline-style.has-bg > li a:hover
+/*.masonry-filter.outline-style.has-bg > li a:active,
+.masonry-filter.outline-style.has-bg > li a:focus*/
+ {
+	color: #FF9800;
+}
+
+@media only screen and (max-width:991px) {
+	.site-bg-primary .header-nav .nav>li:hover>a,
+	.site-bg-primary .header-nav .nav>li.active>a,
+	.site-bg-primary .header-nav .nav>li.current-menu-item>a {
+		color: #FF9800;
+	}
+}
+
+
+/*===================== 
+
+	Premery border color 
+
+=====================*/
+
+
+/* Premery Hex border color*/
+
+.masonry-filter.outline-style.customize>li.active a,
+.latest-blog-1 .wt-post-media,
+button.scroltop,
+.bdr-primary,
+input[type=radio]:checked+label:before,
+input[type=checkbox]:checked+label:before,
+input[type=checkbox]+label:hover:before,
+input[type=radio]+label:hover:before,
+.testimonial-4 .testimonial-pic::after,
+.testimonial-4 .testimonial-pic,
+.testimonial-grid-4 .testimonial-pic,
+.masonry-filter.outline-style.customize>li.active a,
+.masonry-filter.outline-style.customize>li:hover a,
+.masonry-filter.outline-style>li.active a,
+.masonry-filter.outline-style>li a:hover,
+.masonry-filter.outline-style>li a:active,
+.masonry-filter.outline-style>li a:focus,
+.social-icons.social-square.social-dark.has-bg a:hover,
+.social-icons.social-radius.social-dark.has-bg a:hover,
+.about-com-pic:after,
+.pricing-table-style-4 .pricingtable-inner,
+.date-style-3 .wt-post-media,
+
+.masonry-filter.outline-style.has-bg > li.active a,
+.masonry-filter.outline-style.has-bg > li a:hover,
+ol.list-num-count.list-outline > li::before
+ {
+	border-color: #FF9800;
+}
+
+
+/*===================== 
+
+	Secondery bg hex color
+
+ =====================*/
+
+
+/* Secondery hex buttons bg color*/
+
+.site-button-secondry {
+	background-color: #1a1a1a;
+}
+
+.site-button-secondry:hover,
+.site-button-secondry:focus,
+.site-button-secondry:active {
+	background-color: #303030;
+}
+
