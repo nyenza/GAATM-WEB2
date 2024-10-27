@@ -1575,7 +1575,7 @@ ol.list-num-count.list-outline-none > li:before {
 }
 .overlay-icon a:hover { 
    color:#fff;
-   background-color:#ffbc13;
+   background-color:#8cc342 ;
    border:1px solid transparent;
 }
 .overlay-bx:hover a > i,
@@ -1756,7 +1756,7 @@ ol.list-num-count.list-outline-none > li:before {
 -------------------------------------*/
 .bdr-white{border-color:#ffffff;}
 .bdr-black{border-color:#000000;}
-.bdr-primary{border-color:#ffbc13;}
+.bdr-primary{border-color:#8cc342 ;}
 .bdr-gray{border-color:#dddddd;}
 .bdr-gray-light{border-color:#eeeeee;}
 .bdr-gray-dark{border-color:#333333;}
