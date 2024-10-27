@@ -6672,7 +6672,7 @@ ol.comment-list li.comment .reply a {
 	top: 50px;
 	right: 30px;
 	margin-top: -5px;
-	color:#ffbc13;
+	color:#8cc342 ;
 	font-weight: 600;
 }
 ol.comment-list li .children {
@@ -6788,7 +6788,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	height: 40px;
 	padding:10px 10px 10px 50px;
 	border:none;
-	background-color:#f3f3f3;
+	background-color:#8cc342 ;
 	
 }
 .comments-area .comment-form p.comment-form-comment {
@@ -6993,7 +6993,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	color:#fff;
 }
 .latest-blog-3.post-overlay .wt-post-meta i{
-	color:#FF9800;
+	color:#8cc342;
 }
 .latest-blog-3.post-overlay.date-style-3 .post-date{
 	top:0px;
@@ -7015,7 +7015,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	padding:0;
 }
 .latest-blog-3.blog-md .wt-post-meta i{
-	color:#FF9800;
+	color:#8cc342 ;
 }
 .latest-blog-3.blog-md.date-style-3 .post-date{
 	bottom:-10px;
@@ -7104,8 +7104,8 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 .top-bar .fa {
 	vertical-align: middle;
-	background-color:rgba(0,0,0,0.08);
-	border:1px solid rgba(0,0,0,0.01);
+	background-color:#392717 ;
+	border:1px solid #392717 ;
 	padding:3px;
 	width:22px;
 	height:22px;
@@ -7700,10 +7700,10 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .header-nav .nav > li.active > a,
 .header-nav .nav > li.current-menu-item > a {
 	background-color: transparent;
-	color: #FFBC13;
+	color: #8cc342;
 }
 .header-nav .nav > li:hover > a {
-	color: #FFBC13;
+	color: #8cc342;
 }
 .header-nav .nav > li:hover > .sub-menu,
 .header-nav .nav > li:hover > .mega-menu {
@@ -7894,7 +7894,7 @@ header .logo{
 	margin-top:6px;
 }
 .header-nav .nav  li.has-child.nav-active > a{
-	color:#ffbc13;
+	color:#8cc342;
 }
 }
 @media only screen and (max-width: 991px) {
@@ -7905,7 +7905,6 @@ header .logo{
 .navbar-toggle {
 	display: block;
 }
-
 
 /* Responsive strat when medai screen [991px] css END*/
 .header-nav {
@@ -7936,7 +7935,7 @@ header .logo{
 }
 .header-nav .nav > li.active > a, 
 .header-nav .nav > li.current-menu-item > a {
-    color: #FFBC13;
+    color: #8cc342;
 }
 .header-nav .nav i{
 	float:right;	
