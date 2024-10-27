@@ -3512,14 +3512,14 @@ ol.list-num-count.list-outline-none > li:before {
 .ow-post-tags .post-tags a:hover,
 .ow-post-tags .post-tags a:active,
 .ow-post-tags .post-tags a:focus {
-	background-color: #ffbc13;
+	background-color: #006838 ;
     color: #fff;
 }
 .date-style-3 .ow-post-info {
 	position:relative;
 }
 .date-style-3 .ow-post-media {
-	border-bottom:3px solid #ffbc13;
+	border-bottom:3px solid #006838 ;
 }
 /*  empty media */
 .no-image-blog.date-style-2 .ow-post-info {
@@ -9843,10 +9843,10 @@ header .logo{
 	2. Footer dark version css
 -------------------------------------*/
 .footer-dark .footer-top  {
-	 background-color:#1a1a1a;	
+	 background-color:#392717;	
 }
 .footer-dark .footer-bottom { 
-	background-color:#0e0e0e;  
+	background-color:#392717 ;  
 }
 .footer-dark .footer-top h1, 
 .footer-dark .footer-top h2,
@@ -9888,8 +9888,8 @@ header .logo{
 	color: #3396d1;
 }
 .footer-dark .footer-top .widget_newsletter .form-control { 
-	background-color:#0e0e0e;
-	border-color:#2d2d2d;
+	background-color:#413718;
+	border-color:#934713;
 }
 .footer-light .footer-top  {
 	 background-color:#eee;	
