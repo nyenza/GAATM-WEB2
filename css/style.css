@@ -2392,13 +2392,13 @@ ol.list-num-count.list-outline-none > li:before {
 	text-decoration: none !important;
 }
 .site-button {
-	background-color:#FFBC13; 
+	background-color:#8cc342 ; 
 }
 .site-button:active,
 .site-button:hover,
 .site-button:focus,
 .active > .site-button { 
-	background-color:#e4a101; 
+	background-color:#8cc342 ; 
 	color: #fff; 
 }
 .site-button-secondry {
@@ -2562,13 +2562,13 @@ ol.list-num-count.list-outline-none > li:before {
 }
 /* 1.15 Yellow */
 .site-button.yellow { 
-	background-color:#ecc731;
+	background-color:#8cc342 ;
 	color:#fff;
 }
 .site-button.yellow:hover,
 .site-button.yellow:active,
 .site-button.yellow:focus { 
-	background-color:#d4af19;
+	background-color:#8cc342 ;
 	color:#fff;
 }
 /* 1.16 purple */
