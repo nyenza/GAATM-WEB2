@@ -9984,7 +9984,7 @@ footer .container {
 button.scroltop { 
 	height: 55px;  
 	width: 55px;
-	background:#161616;  
+	background:#392717 ; /*------ nmebadili rangi ya scrow up botton Agrey---------------*/
 	border:3px solid;
 	position: fixed;   
 	right: 15px;   
@@ -11873,9 +11873,6 @@ ol.commentlist li::after {
 	font-size:20px;
 }
 } 
-
-
-
 
 
 
